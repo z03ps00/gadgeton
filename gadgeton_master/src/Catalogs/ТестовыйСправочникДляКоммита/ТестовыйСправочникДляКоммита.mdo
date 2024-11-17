@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="381d17a2-1c2f-48db-8ea2-41f659d69e1e">
+  <producedTypes>
+    <objectType typeId="57d6501a-d589-4cbd-a719-2912cd0d8344" valueTypeId="feb38e2c-72a3-47a4-8da4-ca8d3745db8a"/>
+    <refType typeId="000cfb22-7d9c-4463-bf04-f97c466e401e" valueTypeId="e9414d65-5d70-4eea-bc55-8376763679f9"/>
+    <selectionType typeId="713f2900-0ef2-4d85-ac82-8c8d5e9c36c4" valueTypeId="bd11eb42-2daa-4637-8b0f-15f8ebbbb6ee"/>
+    <listType typeId="60ecc915-30e8-4b53-97e6-a694efb16c5d" valueTypeId="e39bec0d-fe52-4b39-b922-f3c400fb01b4"/>
+    <managerType typeId="324c5853-d3eb-411a-b1e2-a047309d8f09" valueTypeId="c3df1335-d7d3-4add-8bfc-b920f73714e6"/>
+  </producedTypes>
+  <name>ТестовыйСправочникДляКоммита</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестовый справочник для коммита</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ТестовыйСправочникДляКоммита.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ТестовыйСправочникДляКоммита.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
